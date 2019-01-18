@@ -1,0 +1,10 @@
+{
+  "directory": "vendor",
+  "cwd": "./",
+  "color": true,
+  "scripts": {
+    "preinstall": "",
+    "postinstall": "node ./node_modules/gulp/bin/gulp go",
+    "preuninstall": ""
+  }
+}
